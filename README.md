@@ -1,4 +1,4 @@
-# AI Origins Series 
+# The AI Origins Series 
 
 A collection of deep learning models implemented from scratch using PyTorch. 
 Covering topics like pytorch basics to advanced 
